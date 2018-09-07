@@ -1,0 +1,23 @@
+img {
+    width: 20px;
+    height: 20px;
+    
+}
+
+#header {
+    background-color: yellowgreen;
+    text-align: center;
+    color: #323D4C;
+    height: 120px;
+   padding: 20px;
+   font-family:'Pacifico', cursive;
+}
+
+.container {
+    height: 100px;
+}
+.card
+{
+    margin: 10px;
+padding: 10px;
+}
